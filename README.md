@@ -69,17 +69,5 @@ User submits: _"I can’t connect to the company VPN."_
    python main.py
    ```
 
-## Future Enhancements
 
-- Integration with chatbots for real-time ticket creation
-- Advanced ML models for improved classification accuracy
-- Admin dashboard for monitoring tickets and analytics
-- Multi-language support for international use
 
-## Contributing
-
-Contributions are welcome. Please fork the repository and submit a pull request with your improvements.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
